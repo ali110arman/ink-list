@@ -1,2 +1,2 @@
-# ink-list
+# link-list
 ink-list
